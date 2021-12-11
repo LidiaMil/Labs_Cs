@@ -1,0 +1,58 @@
+[
+  {
+    "Order": 5000,
+    "RepeatNumber": 3,
+    "CSTime": 2264,
+    "CPPTime": 967,
+    "TimeCoefficient": 2.341
+  },
+  {
+    "Order": 100,
+    "RepeatNumber": 500,
+    "CSTime": 152,
+    "CPPTime": 64,
+    "TimeCoefficient": 2.375
+  },
+  {
+    "Order": 500,
+    "RepeatNumber": 100,
+    "CSTime": 765,
+    "CPPTime": 326,
+    "TimeCoefficient": 2.347
+  },
+  {
+    "Order": 750,
+    "RepeatNumber": 350,
+    "CSTime": 6024,
+    "CPPTime": 2555,
+    "TimeCoefficient": 2.358
+  },
+  {
+    "Order": 200,
+    "RepeatNumber": 500,
+    "CSTime": 614,
+    "CPPTime": 252,
+    "TimeCoefficient": 2.437
+  },
+  {
+    "Order": 400,
+    "RepeatNumber": 500,
+    "CSTime": 2471,
+    "CPPTime": 1006,
+    "TimeCoefficient": 2.456
+  },
+  {
+    "Order": 50,
+    "RepeatNumber": 50,
+    "CSTime": 3,
+    "CPPTime": 1,
+    "TimeCoefficient": 3
+  },
+  {
+    "Order": 3,
+    "RepeatNumber": 5000,
+    "CSTime": 3,
+    "CPPTime": 9,
+    "TimeCoefficient": 0.333
+  }
+]
